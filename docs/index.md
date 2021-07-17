@@ -22,13 +22,13 @@ __B.S. in Data Science__, Brigham Young University - Idaho
 ## Relevant Experience
 
 `April 2021 - Current`
-__AgReserves, Inc.__, Student Project Team
+__AgReserves, Inc.__
 
 - Summarized tables and SQL queries from Crystal Reports
 - Allowed AgReserves to more quickly update their database
 
 `May 2020 - August 2020`
-__Identity Managed LLC__, Intern
+__Identity Managed LLC__
 
 - Created, edited, and organized instructional material for Microsoft Identity Manager users
 - Allowed database administrator
