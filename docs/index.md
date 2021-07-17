@@ -31,7 +31,7 @@ __AgReserves, Inc.__
 __Identity Managed LLC__
 
 - Created, edited, and organized instructional material for Microsoft Identity Manager users
-- Allowed database administrator
+- Answered questions and resolved issues to allow the database administrator time to solve more technical problems.
 
 ### Skills
 
