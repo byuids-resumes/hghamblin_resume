@@ -37,7 +37,6 @@ __Identity Managed LLC__
 - Python, pandas (2 years) 
 - R (1 year) 
 - SQL (1 year)
-
 - English, Spanish, Russian
 
 
