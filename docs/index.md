@@ -34,11 +34,11 @@ __Identity Managed LLC__
 - Allowed database administrator
 
 ### Skills
-- Python, pandas (2 years) 
-- R (1 year) 
-- SQL (1 year)
-- English, Spanish, Russian
 
+- Python, pandas (2 years)
+- R (1 year)
+- SEL (1 year)
+- English, Spanish, Russian
 
 <!-- ### Footer
 
